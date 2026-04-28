@@ -19,7 +19,7 @@ def ATM():
         elif(ch==4):
             display()
         elif(ch==5):
-            print("Thanks For Rohit ATM Service")
+            print("Thanks For VISITING ATM Service")
             break
         else:
             print("Invalid Number!!!")
